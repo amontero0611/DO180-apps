@@ -4,8 +4,11 @@
   "description": "Hello World!",
   "main": "app.js",
   "author": "Red Hat Training",
-  "license": "ASL",
+  "license": "UNLICENSED",
   "dependencies": {
     "express": "4.15.x"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }
