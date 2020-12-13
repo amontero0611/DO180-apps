@@ -8,5 +8,8 @@
   "dependencies": {
     "express": "4.15.x",
     "http-error": "latest"
+  },
+  "scripts":{
+    "start":"node server.js"
   }
 }
